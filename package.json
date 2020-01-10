@@ -1,0 +1,22 @@
+{
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "description": "Playing with mocha unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanikas01/mocha-test.git"
+  },
+  "author": "Kurt Statham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanikas01/mocha-test/issues"
+  },
+  "homepage": "https://github.com/kanikas01/mocha-test#readme",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
